@@ -45,3 +45,4 @@ Closes #
 1. 브랜치 checkout
 2. index.html 브라우저에서 열기
 3. 변경사항 확인
+4.
